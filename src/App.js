@@ -5,7 +5,7 @@ const App = () => {
   const { t } = useTranslation();
   return (
     <div className="App">
-      <h1>{t('Title example')}</h1>
+      <h1 className='text-3xl font-bold underline'>{t('Title example')}</h1>
       <p>{t('One more example')}</p>
     </div>
   );
