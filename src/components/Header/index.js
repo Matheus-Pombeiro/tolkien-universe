@@ -1,6 +1,7 @@
 import { useTranslation } from "react-i18next";     // Translation framework import
 
 import LanguageSwitcher from "../LanguageSwitcher";
+import ThemeSwitcher from "../ThemeSwitcher";
 
 // Function that 
 const Header = () => {
@@ -8,11 +9,11 @@ const Header = () => {
 
     // JSX Header
     return (
-        <header className="p-2 xl:p-3 bg-stone-400 flex justify-between items-center">
-            <img src="/assets/logo.png" alt="Logo" className="h-14 xl:h-16"></img>
+        <header className="p-2 bg-stone-400 flex justify-between items-center dark:bg-stone-700">
+            <img src="/assets/logo.png" alt="Logo" className="h-12 xl:h-14"></img>
 
             <nav className="flex justify-between items-center gap-1">
-                <button><img src="/assets/sun.png" className="h-12"></img></button>
+                <ThemeSwitcher />
                 <LanguageSwitcher />
             </nav>
         </header>
