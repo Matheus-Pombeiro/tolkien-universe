@@ -14,7 +14,7 @@ const languageOptions = [
     }
 ]
 
-// Function that implement the language swtching
+// Function that implement the language switching
 const LanguageSwitcher = () => {
     const { t, i18n } = useTranslation(); 
     return (
