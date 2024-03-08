@@ -1,12 +1,13 @@
 import './App.css';
-import { UseTranslation, useTranslation } from "react-i18next"
+
+import Header from './components/Header';
 
 const App = () => {
-  const { t } = useTranslation();
   return (
     <div className="App">
-      <h1 className='text-3xl font-bold underline'>{t('Title example')}</h1>
-      <p>{t('One more example')}</p>
+      <Header />
+
+      
     </div>
   );
 }
