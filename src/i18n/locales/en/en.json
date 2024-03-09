@@ -1,6 +1,9 @@
 {
     "translation": {
-        "Title example": "Title example",
-        "One more example": "One more example"
+        "Title": "Tolkien Universe",
+        "Books": "Books",
+        "Books Description": "Next you can check the main books writed by J. R. R. Tolkien",
+        "Author": "Author",
+        "Publishing Year": "Publishing Year"
     }
 }
