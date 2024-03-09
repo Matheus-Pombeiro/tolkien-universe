@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "name": "The Lord of the Rings",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "1954"
+    },
+    {
+        "id": "2",
+        "name": "The Hobbit",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "1937"
+    },
+    {
+        "id": "3",
+        "name": "The Silmarillion",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "1977"
+    },
+    {
+        "id": "4",
+        "name": "Unfinished Tales of Númenor and Middle-Earth",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "1980"
+    },
+    {
+        "id": "5",
+        "name": "The Children of Húrin",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "2007"
+    },
+    {
+        "id": "6",
+        "name": "Beren and Lúthien",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "2017"
+    },
+    {
+        "id": "7",
+        "name": "The Fall of Gondolin",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "2018"
+    },
+    {
+        "id": "8",
+        "name": "The History of Middle-Earth",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "1983"
+    },
+    {
+        "id": "9",
+        "name": "The Fall of Númenor: And Other Tales From the Second Age",
+        "author": "J. R. R. Tolkien",
+        "publishingYear": "2022"
+    }
+]
