@@ -9,7 +9,7 @@ const ThemeSwitcher = () => {
 
     // JSX
     return (
-        <button type="button" onClick={handleThemeSwitching}><img src="/assets/sun.png" className="h-12"></img></button>
+        <button type="button" onClick={handleThemeSwitching}><img src="/assets/sun.png" className="h-12 btn"></img></button>
     )
 };
 

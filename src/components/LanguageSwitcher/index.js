@@ -21,6 +21,7 @@ const LanguageSwitcher = () => {
         <div  className="flex justify-center items-center gap-1">
             {languageOptions.map(languageOption => (
                 <button
+                    className="btn"
                     key={languageOption.value}
                     onClick={() => 
                         i18n.changeLanguage(languageOption.value)
