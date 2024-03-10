@@ -7,6 +7,12 @@
         "Publishing Year": "Publishing Year",
         "Movies": "Movies",
         "Movies Description": "Next you can check the movies based on Arda universe",
-        "Director": "Director"
+        "Director": "Director",
+        "Games": "Games",
+        "Games Description": "Next you can check some of the best video-games of the Tolkien universe",
+        "Studio": "Studio",
+        "Series": "Series",
+        "Series Description": "And finally you can check the series based on the fantastic universe created by J. R. R. Tolkien",
+        "TV Channel": "TV Channel"
     }
 }
