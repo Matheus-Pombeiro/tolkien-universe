@@ -4,6 +4,9 @@
         "Books": "Books",
         "Books Description": "Next you can check the main books writed by J. R. R. Tolkien",
         "Author": "Author",
-        "Publishing Year": "Publishing Year"
+        "Publishing Year": "Publishing Year",
+        "Movies": "Movies",
+        "Movies Description": "Next you can check the movies based on Arda universe",
+        "Director": "Director"
     }
 }

@@ -4,6 +4,9 @@
         "Books": "Livros",
         "Books Description": "A seguir você pode conferir os principais livros escritos por J. R. R. Tolkien",
         "Author": "Autor",
-        "Publishing Year": "Ano de publicação"
+        "Publishing Year": "Ano de publicação",
+        "Movies": "Filmes",
+        "Movies Description": "A seguir você pode conferir os filmes baseados no universo de Arda",
+        "Director": "Diretor"
     }
 }

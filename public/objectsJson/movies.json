@@ -3,36 +3,36 @@
         "id": "1",
         "name": "The Lord of the Rings: The Fellowship of the Ring",
         "director": "Peter Jackson",
-        "publishing year": "2001"
+        "publishingYear": "2001"
     },
     {
         "id": "2",
         "name": "The Lord of the Rings: The Two Towers",
         "director": "Peter Jackson",
-        "publishing year": "2002"
+        "publishingYear": "2002"
     },
     {
         "id": "3",
         "name": "The Lord of the Rings: The Return of the King",
         "director": "Peter Jackson",
-        "publishing year": "2003"
+        "publishingYear": "2003"
     },
     {
         "id": "4",
         "name": "The Hobbit: An Unexpected Journey",
         "director": "Peter Jackson",
-        "publishing year": "2012"
+        "publishingYear": "2012"
     },
     {
         "id": "5",
         "name": "The Hobbit: The Desolation of Smaug",
         "director": "Peter Jackson",
-        "publishing year": "2013"
+        "publishingYear": "2013"
     },
     {
         "id": "6",
         "name": "The Hobbit: The Battle of the Five Armies",
         "director": "Peter Jackson",
-        "publishing year": "2014"
+        "publishingYear": "2014"
     }
 ]
