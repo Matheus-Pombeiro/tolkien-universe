@@ -8,7 +8,7 @@ const Books = (props) => {     // Books component
     return (
         <section className="section">
             <h2 className="h2">{t("Books")}</h2>
-            <p>{t("Books Description")}</p>
+            <p className="text-center">{t("Books Description")}</p>
             <div className="item-container">
                 {props.books.map((book) => (    /* books json object mapping */
                     <div key={book.id} className="item">

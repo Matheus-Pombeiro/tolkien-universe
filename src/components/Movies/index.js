@@ -7,7 +7,7 @@ const Movies = (props) => {      // Movies component
     return (
         <section className="section">
             <h2 className="h2">{t("Movies")}</h2>
-            <p>{t("Movies Description")}</p>
+            <p className="text-center">{t("Movies Description")}</p>
             <div className="item-container">
                 {props.movies.map((movie) => (
                     <div className="item" key={movie.id}>
