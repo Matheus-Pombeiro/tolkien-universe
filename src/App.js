@@ -3,6 +3,7 @@ import { Component } from 'react';    // Import 'Component' from react
 // Component imports
 import Header from './components/Header';
 import Main from './components/Main';
+import Footer from './components/Footer';
 
 // Main container 'App'
 class App extends Component {
@@ -72,6 +73,7 @@ class App extends Component {
           games = { this.state.games }
           series = { this.state.series }
         />
+        <Footer />
       </div>
     );
   }
