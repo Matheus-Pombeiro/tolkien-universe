@@ -11,7 +11,7 @@ const Main = (props) => {       // Main component
 
     // JSX
     return (
-        <main className="my-7 mx-auto flex flex-col justify-evenly items-center gap-10">
+        <main className="my-7 mx-auto flex flex-col justify-evenly items-center gap-14">
             <h1 className="text-center text-xl xl:text-2xl font-semibold">{t("Title")}</h1>
             <Books books = { props.books }/>
             <Movies movies = { props.movies }/>

@@ -9,7 +9,7 @@ const Header = () => {
 
     // JSX Header
     return (
-        <header className="py-2 px-4 bg-stone-400 flex justify-between items-center dark:bg-stone-700">
+        <header className="py-2 px-4 bg-stone-400 flex justify-between items-center dark:bg-stone-600">
             <img src="/assets/logo.png" alt="Logo" className="h-12 xl:h-14"></img>
 
             <nav className="flex justify-between items-center gap-1">
